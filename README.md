@@ -1,5 +1,3 @@
-# taichihub Profile
-
 <!-- Picture -->
 <p align="center">
   <img src="hi.png" width="820" alt="profile picture" />
