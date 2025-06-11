@@ -20,3 +20,9 @@
 	  <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
 	</picture>
 </p>　
+
+<p align="left">
+  <a href="https://github.com/taichihub">
+    <img height="20" src="https://komarev.com/ghpvc/?username=Keichan15" />
+  </a>
+</p>
