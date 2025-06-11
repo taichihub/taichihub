@@ -23,6 +23,6 @@
 
 <p align="left">
   <a href="https://github.com/taichihub">
-    <img height="40" src="https://komarev.com/ghpvc/?username=taichihub&color=yellow&style=for-the-badge" />
+    <img height="30" src="https://komarev.com/ghpvc/?username=taichihub&color=yellow&style=for-the-badge" />
   </a>
 </p>
